@@ -1,0 +1,6 @@
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\bin\Debug\TrackTheRing.exe.config
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\bin\Debug\TrackTheRing.exe
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\bin\Debug\TrackTheRing.pdb
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\obj\Debug\TrackTheRing.csprojResolveAssemblyReference.cache
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\obj\Debug\TrackTheRing.exe
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as2\TrackTheRing\TrackTheRing\obj\Debug\TrackTheRing.pdb

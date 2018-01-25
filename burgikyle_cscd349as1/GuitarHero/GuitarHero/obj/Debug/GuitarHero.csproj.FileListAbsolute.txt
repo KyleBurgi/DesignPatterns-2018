@@ -1,0 +1,6 @@
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\bin\Debug\GuitarHero.exe.config
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\bin\Debug\GuitarHero.exe
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\bin\Debug\GuitarHero.pdb
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\obj\Debug\GuitarHero.csprojResolveAssemblyReference.cache
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\obj\Debug\GuitarHero.exe
+C:\Users\Kyle Burgi\Desktop\burgikyle_cscd349as1\GuitarHero\GuitarHero\obj\Debug\GuitarHero.pdb
