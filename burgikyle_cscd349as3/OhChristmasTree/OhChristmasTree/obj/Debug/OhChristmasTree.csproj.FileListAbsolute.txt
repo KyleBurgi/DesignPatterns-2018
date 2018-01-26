@@ -1,0 +1,6 @@
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\bin\Debug\OhChristmasTree.exe.config
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\bin\Debug\OhChristmasTree.exe
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\bin\Debug\OhChristmasTree.pdb
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\obj\Debug\OhChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\obj\Debug\OhChristmasTree.exe
+C:\Users\nammy\Desktop\DesignPatterns\DesignPatterns-2018\burgikyle_cscd349as3\OhChristmasTree\OhChristmasTree\obj\Debug\OhChristmasTree.pdb
