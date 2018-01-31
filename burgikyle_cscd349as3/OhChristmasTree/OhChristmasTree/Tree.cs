@@ -14,7 +14,7 @@ namespace OhChristmasTree
 
     public class FraserTree : Tree
     {
-        private String TreeType = "Fraser Fir";
+        private String TreeType = "Fraser Fir has";
         private int TreeCost = 35;
 
         public override int Cost()
@@ -30,7 +30,7 @@ namespace OhChristmasTree
 
     public class BalsamTree : Tree
     {
-        private String TreeType = "Balsam Fir";
+        private String TreeType = "Balsam Fir has";
         private int TreeCost = 25;
 
         public override int Cost()
@@ -46,7 +46,7 @@ namespace OhChristmasTree
 
     public class DouglasTree : Tree
     {
-        private String TreeType = "Douglas Fir";
+        private String TreeType = "Douglas Fir has";
         private int TreeCost = 30;
         public override int Cost()
         {
@@ -61,7 +61,7 @@ namespace OhChristmasTree
 
     public class ColoradoBlueTree : Tree
     {
-        private String TreeType = "Colorado Blue Spruce";
+        private String TreeType = "Colorado Blue Spruce has";
         private int TreeCost = 50;
         public override int Cost()
         {
