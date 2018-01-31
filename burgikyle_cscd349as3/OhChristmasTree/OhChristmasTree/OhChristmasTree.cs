@@ -112,14 +112,7 @@ namespace OhChristmasTree
                 switch (MenuChoice)
                 {
                     case 1:
-                        if (!ChosenTree.GetDescription().Contains("Star"))
-                        {
-                            ChosenTree = new StarDecoration(ChosenTree);
-                            WriteLine("Added a Star to the top of the tree!");
-                        }
-                        else
-                            WriteLine("Tree already has a Star");
-                        
+                        ChosenTree = StarDecoration.GetStar(ChosenTree);
                         break;
 
                     case 2:

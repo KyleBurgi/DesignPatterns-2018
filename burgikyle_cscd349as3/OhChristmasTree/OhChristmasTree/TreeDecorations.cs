@@ -17,9 +17,22 @@ namespace OhChristmasTree
         private int DecorationCost = 4;
         private String DecorationDescription = ", a bright shining Star ";
 
-        public StarDecoration(Tree PassedInTree) : base()
+        private StarDecoration(Tree PassedInTree) : base()
         {
             this.BaseTree = PassedInTree;
+        }
+
+        public static Tree GetStar(Tree PassedInTree)
+        {
+            if (!PassedInTree.GetDescription().Contains("Star"))
+            {
+                PassedInTree = new StarDecoration(PassedInTree);
+                Console.WriteLine("Added a Star to the top of the tree!");
+                return PassedInTree;
+            }
+
+            Console.WriteLine("There is already a bright, shining star on the tree!");
+            return PassedInTree;
         }
         public override string GetDescription()
         {
@@ -169,7 +182,7 @@ namespace OhChristmasTree
         }
         public override string GetDescription()
         {
-            return this.BaseTree.GetDescription() + " " + this.DecorationDescription;
+            return this.BaseTree.GetDescription() + this.DecorationDescription;
         }
 
         public override int Cost()
